@@ -1,4 +1,4 @@
-# Use the Index, Luke Preface and Chapter 1 Notes
+# Use the Index Luke: Preface and Chapter 1 Notes
 Adam Hellinga
 ## Preface
 SQL seperates the where and the how, making it easier to find data, but its not perfect.
