@@ -26,7 +26,7 @@ adding __iexact will make sure that anything found is exactly like the value you
 
 ### Runtimes with different amounts of data
 
-<img src="/Users/1010947/Desktop/itd256/Other/Runtimes.png" alt="The image did not load">
+<img src="../Other/Runtimes.png" alt="The image did not load">
 
 ## Takeaways
 
