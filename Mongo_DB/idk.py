@@ -8,7 +8,7 @@ def query(x):
         print(x)
     
 # Connecting to database and collections
-client = MongoClient("mongodb+srv://adamghellinga:8hweCqVsMeW1uEzE@learningmongodb.0nigmus.mongodb.net/?retryWrites=true&w=majority&appName=LearningMongoDB")
+client = MongoClient("###")
 mydb = client["mydatabase"]
 mycol = mydb["customers"]
 
