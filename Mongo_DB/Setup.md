@@ -1,0 +1,1 @@
+install pymongo through virtual envoironment
